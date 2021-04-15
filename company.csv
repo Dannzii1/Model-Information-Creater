@@ -1,0 +1,500 @@
+Position,GPA,Skill 1,Skill 2,Skill 3,Parish,Employment Type
+Network Administrator,3.10,C++,UNIX,Python,Manchester,Full Time
+Data Analysts,3.20,Ruby,Python,R,Hanover,Full Time
+FullStackDeveloper,2.70,SQL,vue,backbone,Westmoreland,Full Time
+Network Analyst,3.40,R,ML systems,SQL,St. James,Full Time
+Network Administrator,2.60,C++,UNIX,Python,St. Catherine,Part Time
+Network Administrator,2.90,LAN,TCP/IP,C++,Westmoreland,Part Time
+Data Analysts,3.40,R,Python,Ruby,Clarendon,Full Time
+Data Analysts,2.60,R,Ruby,SQL,St. Ann,Part Time
+Network Analyst,2.80,ML systems,regressions,Python,St.Andrew,Part Time
+FullStackDeveloper,3.50,javascript,html,backbone,St.Andrew,Part Time
+Software Engineer,3.40,Java,Mean,.Net,Kingston,Full Time
+Software Engineer,2.50,C#,.Net,Java,St Mary,Full Time
+Software Engineer,3.00,Mean,Python,C#,St. Ann,Full Time
+FullStackDeveloper,3.40,css,rails,SQL,Kingston,Full Time
+FullStackDeveloper,2.90,rails,vue,html,Hanover,Part Time
+Network Administrator,3.50,LAN,C++,Python,Hanover,Full Time
+Software Engineer,3.20,C#,.Net,Mean,St. Catherine,Part Time
+Software Engineer,2.90,C#,Java,.Net,Portland,Full Time
+Software Engineer,2.90,Java,Python,Mean,Hanover,Part Time
+BackEndDeveloper,2.50,rails,django,php,Clarendon,Part Time
+FullStackDeveloper,2.40,SQL,php,django,Clarendon,Part Time
+Data Analysts,2.40,SQL,Ruby,Python,Hanover,Part Time
+Network Analyst,3.10,SQL,R,statisticalinference,St. Catherine,Part Time
+FrontEndDeveloper,3.30,vue,react,javascript,St Mary,Full Time
+Data Analysts,2.50,Python,Ruby,SQL,Hanover,Full Time
+FrontEndDeveloper,2.90,html,javascript,css,Westmoreland,Part Time
+FullStackDeveloper,3.00,django,php,react,Westmoreland,Part Time
+BackEndDeveloper,3.20,django,rails,git,St. Ann,Part Time
+FullStackDeveloper,2.50,react,css,javascript,St. Thomas,Full Time
+FrontEndDeveloper,3.40,angular,vue,javascript,St. James,Part Time
+Data Analysts,3.10,R,SQL,Ruby,Kingston,Full Time
+FrontEndDeveloper,3.50,react,backbone,vue,Trelawny,Full Time
+FullStackDeveloper,2.50,django,SQL,html,Hanover,Full Time
+Network Administrator,3.00,WAN,LAN,Python,Trelawny,Full Time
+FullStackDeveloper,2.90,php,javascript,vue,Kingston,Part Time
+FrontEndDeveloper,2.60,angular,vue,react,St.Andrew,Full Time
+BackEndDeveloper,2.60,django,php,git,Westmoreland,Full Time
+Network Administrator,2.50,WAN,C++,TCP/IP,St. Ann,Part Time
+Network Analyst,2.60,SQL,regressions,hypothesis testing,St Mary,Part Time
+Data Analysts,2.40,Ruby,SQL,Python,St.Andrew,Full Time
+Network Administrator,2.60,Python,LAN,WAN,St. Thomas,Full Time
+BackEndDeveloper,3.20,rails,php,git,St. Thomas,Part Time
+BackEndDeveloper,3.20,rails,php,django,Clarendon,Full Time
+Data Analysts,3.50,SQL,Python,R,Hanover,Full Time
+Data Analysts,2.90,Python,SQL,R,St. Ann,Full Time
+BackEndDeveloper,3.40,rails,django,git,Westmoreland,Full Time
+Software Engineer,2.80,Java,C#,Python,St. Elizabeth,Full Time
+FullStackDeveloper,3.50,backbone,javascript,vue,St.Andrew,Full Time
+FullStackDeveloper,3.10,react,angular,vue,St. Elizabeth,Full Time
+Network Analyst,3.50,regressions,SQL,ML systems,St. Thomas,Full Time
+BackEndDeveloper,2.40,rails,php,git,Portland,Part Time
+Data Analysts,2.90,SQL,R,Python,Portland,Full Time
+Network Administrator,3.50,UNIX,WAN,Python,Clarendon,Full Time
+Data Analysts,2.90,Python,SQL,R,Portland,Part Time
+FullStackDeveloper,3.30,vue,django,git,St Mary,Part Time
+Network Analyst,2.90,regressions,hypothesis testing,Python,St.Andrew,Part Time
+Network Administrator,3.50,WAN,C++,UNIX,St.Andrew,Part Time
+Network Analyst,3.40,SQL,regressions,statisticalinference,St. Thomas,Full Time
+Software Engineer,2.80,Mean,Java,Ruby,St. Ann,Part Time
+Network Analyst,3.20,SQL,hypothesis testing,regressions,Trelawny,Part Time
+Network Administrator,3.10,TCP/IP,C++,WAN,Hanover,Part Time
+Network Administrator,2.40,UNIX,WAN,C++,Kingston,Part Time
+Data Analysts,2.90,SQL,Ruby,R,St. Ann,Part Time
+Data Analysts,2.50,R,SQL,Python,St. Ann,Full Time
+Network Administrator,2.70,C++,UNIX,TCP/IP,St. Catherine,Full Time
+Network Administrator,2.40,WAN,C++,LAN,St.Andrew,Full Time
+Network Analyst,2.80,R,ML systems,hypothesis testing,Manchester,Full Time
+FullStackDeveloper,2.90,javascript,django,react,St. Catherine,Part Time
+BackEndDeveloper,2.50,rails,django,php,Manchester,Part Time
+Data Analysts,2.60,SQL,R,Python,Trelawny,Part Time
+FrontEndDeveloper,3.40,git,react,angular,St. James,Full Time
+FrontEndDeveloper,2.70,css,javascript,backbone,Portland,Part Time
+FrontEndDeveloper,3.00,angular,react,vue,St. Ann,Full Time
+Network Analyst,2.80,statisticalinference,ML systems,regressions,Trelawny,Full Time
+FullStackDeveloper,2.60,backbone,react,SQL,St Mary,Part Time
+FullStackDeveloper,2.60,SQL,react,javascript,St. Elizabeth,Part Time
+FullStackDeveloper,3.00,vue,rails,django,Westmoreland,Part Time
+Software Engineer,3.10,Java,Mean,Ruby,St. Elizabeth,Part Time
+FrontEndDeveloper,3.20,javascript,backbone,vue,St.Andrew,Part Time
+Network Analyst,3.20,ML systems,SQL,regressions,Portland,Part Time
+Network Administrator,3.20,TCP/IP,LAN,WAN,Manchester,Full Time
+Network Analyst,2.70,hypothesis testing,ML systems,statisticalinference,St Mary,Part Time
+Network Administrator,2.90,TCP/IP,C++,LAN,Portland,Full Time
+Network Administrator,3.40,TCP/IP,LAN,Python,Manchester,Part Time
+FrontEndDeveloper,3.30,react,git,css,St. Catherine,Full Time
+FrontEndDeveloper,3.30,react,css,git,St. James,Full Time
+Network Administrator,3.50,C++,LAN,Python,Manchester,Part Time
+Network Analyst,2.90,Python,statisticalinference,regressions,St. Thomas,Part Time
+Software Engineer,3.30,Python,.Net,Ruby,St. Ann,Part Time
+BackEndDeveloper,3.20,git,django,rails,Trelawny,Part Time
+Network Analyst,3.40,R,hypothesis testing,statisticalinference,Kingston,Full Time
+Data Analysts,2.50,SQL,R,Python,St. Catherine,Full Time
+FullStackDeveloper,2.80,vue,git,rails,St. Thomas,Full Time
+FrontEndDeveloper,3.50,react,javascript,git,Portland,Part Time
+Network Administrator,2.60,LAN,C++,WAN,St Mary,Part Time
+Network Administrator,2.60,LAN,TCP/IP,UNIX,St. Elizabeth,Full Time
+Network Analyst,2.90,regressions,R,Python,St. Elizabeth,Full Time
+FullStackDeveloper,3.40,angular,css,SQL,St. James,Part Time
+Data Analysts,2.40,R,SQL,Python,St. Ann,Full Time
+BackEndDeveloper,3.40,php,django,git,Westmoreland,Part Time
+FullStackDeveloper,2.90,git,javascript,css,St.Andrew,Full Time
+FrontEndDeveloper,2.60,react,css,angular,Portland,Full Time
+BackEndDeveloper,3.10,git,django,php,Hanover,Full Time
+FrontEndDeveloper,3.30,backbone,angular,git,St. Catherine,Full Time
+Software Engineer,2.40,Ruby,.Net,Mean,St. Catherine,Full Time
+Network Administrator,2.80,Python,TCP/IP,UNIX,St. Ann,Full Time
+FrontEndDeveloper,2.50,git,angular,backbone,Clarendon,Full Time
+Data Analysts,2.90,SQL,Ruby,Python,Trelawny,Full Time
+Software Engineer,2.70,C#,.Net,Python,Portland,Full Time
+Data Analysts,2.50,Ruby,SQL,R,St. Thomas,Part Time
+Network Analyst,2.40,ML systems,R,SQL,St. Ann,Part Time
+Software Engineer,3.30,.Net,Ruby,Python,Kingston,Full Time
+FullStackDeveloper,3.50,vue,git,css,Manchester,Full Time
+Software Engineer,2.90,C#,Mean,Ruby,Westmoreland,Full Time
+FullStackDeveloper,3.10,git,django,angular,Portland,Full Time
+Network Analyst,3.20,SQL,ML systems,regressions,St. Thomas,Part Time
+FrontEndDeveloper,3.00,backbone,vue,javascript,Clarendon,Full Time
+Data Analysts,3.30,R,SQL,Ruby,Kingston,Part Time
+Network Analyst,2.90,SQL,regressions,ML systems,St. Elizabeth,Part Time
+Software Engineer,2.60,C#,Mean,Java,Kingston,Full Time
+Network Analyst,3.30,regressions,SQL,hypothesis testing,Trelawny,Full Time
+Data Analysts,3.50,Ruby,R,SQL,St. Elizabeth,Part Time
+Software Engineer,2.60,C#,.Net,Java,St. Elizabeth,Full Time
+Data Analysts,3.00,Python,R,Ruby,Clarendon,Full Time
+FullStackDeveloper,3.10,git,backbone,vue,Portland,Part Time
+FullStackDeveloper,3.00,backbone,css,react,Trelawny,Part Time
+Data Analysts,2.40,SQL,Python,R,Kingston,Part Time
+Software Engineer,3.30,Java,C#,Ruby,Hanover,Full Time
+FullStackDeveloper,2.70,html,angular,javascript,St Mary,Part Time
+Network Administrator,2.60,Python,WAN,LAN,Hanover,Part Time
+Data Analysts,3.20,R,SQL,Python,St. Elizabeth,Full Time
+Network Administrator,2.60,LAN,C++,TCP/IP,St. Thomas,Part Time
+BackEndDeveloper,2.60,php,git,django,St Mary,Full Time
+Network Analyst,3.40,R,Python,ML systems,Trelawny,Full Time
+Network Administrator,2.80,C++,LAN,WAN,St. Thomas,Part Time
+FrontEndDeveloper,2.90,react,angular,git,St. Thomas,Full Time
+FullStackDeveloper,3.30,angular,SQL,javascript,St Mary,Full Time
+FullStackDeveloper,2.70,php,vue,backbone,St.Andrew,Full Time
+Software Engineer,2.80,.Net,Python,Mean,Kingston,Part Time
+FrontEndDeveloper,3.00,angular,css,git,Clarendon,Part Time
+BackEndDeveloper,3.10,django,php,rails,St. Ann,Part Time
+Software Engineer,2.60,Java,Python,Ruby,Hanover,Full Time
+Software Engineer,2.40,Java,Ruby,C#,St. Catherine,Part Time
+Software Engineer,2.70,Ruby,C#,Java,St. Elizabeth,Full Time
+Network Administrator,2.90,LAN,UNIX,Python,St. Ann,Part Time
+FullStackDeveloper,2.90,backbone,git,SQL,Westmoreland,Part Time
+Data Analysts,3.30,SQL,Ruby,Python,Manchester,Full Time
+FrontEndDeveloper,2.50,html,vue,angular,Kingston,Part Time
+BackEndDeveloper,3.30,php,rails,django,Kingston,Full Time
+Data Analysts,3.30,R,Python,Ruby,Kingston,Full Time
+FullStackDeveloper,2.60,backbone,react,git,St.Andrew,Part Time
+Network Administrator,3.20,Python,UNIX,C++,Manchester,Full Time
+FullStackDeveloper,3.20,git,SQL,css,Portland,Part Time
+Software Engineer,2.70,Python,Ruby,C#,St. Ann,Part Time
+Software Engineer,3.10,Ruby,.Net,Python,St. Catherine,Full Time
+Software Engineer,3.20,.Net,Ruby,Mean,Portland,Full Time
+Network Analyst,2.40,ML systems,hypothesis testing,SQL,Kingston,Full Time
+Software Engineer,2.60,.Net,Java,Mean,Kingston,Full Time
+BackEndDeveloper,3.00,php,rails,django,St. Thomas,Full Time
+Software Engineer,2.90,.Net,Java,Ruby,Clarendon,Part Time
+Network Analyst,2.60,hypothesis testing,SQL,regressions,Westmoreland,Full Time
+FrontEndDeveloper,3.30,angular,javascript,css,Clarendon,Part Time
+Network Analyst,2.90,SQL,regressions,statisticalinference,Westmoreland,Full Time
+Network Administrator,2.50,Python,C++,TCP/IP,Manchester,Part Time
+Network Analyst,3.40,hypothesis testing,SQL,statisticalinference,St. James,Full Time
+Software Engineer,3.00,Mean,.Net,Python,Portland,Part Time
+FullStackDeveloper,3.40,django,javascript,css,Hanover,Part Time
+BackEndDeveloper,2.60,django,rails,git,St Mary,Part Time
+Network Analyst,2.50,hypothesis testing,SQL,Python,St. Catherine,Full Time
+FullStackDeveloper,3.50,javascript,react,vue,St. James,Part Time
+BackEndDeveloper,3.00,django,php,git,Kingston,Part Time
+FrontEndDeveloper,2.50,git,vue,css,Kingston,Full Time
+BackEndDeveloper,3.20,git,rails,php,Hanover,Full Time
+FullStackDeveloper,3.20,SQL,rails,php,St. Ann,Full Time
+Data Analysts,2.40,SQL,Python,R,Manchester,Part Time
+BackEndDeveloper,3.40,rails,php,git,Kingston,Part Time
+Data Analysts,2.40,R,Ruby,SQL,St. Elizabeth,Part Time
+Network Administrator,2.90,UNIX,C++,TCP/IP,Manchester,Part Time
+Software Engineer,3.50,C#,Python,Java,St. Thomas,Part Time
+FrontEndDeveloper,2.60,backbone,css,javascript,Clarendon,Full Time
+FrontEndDeveloper,3.20,git,html,angular,Clarendon,Full Time
+Software Engineer,2.90,C#,.Net,Python,Westmoreland,Full Time
+FrontEndDeveloper,2.60,css,html,vue,St Mary,Full Time
+BackEndDeveloper,2.90,rails,git,php,St. Thomas,Part Time
+FullStackDeveloper,3.10,backbone,php,html,St. Thomas,Full Time
+FrontEndDeveloper,3.40,css,javascript,vue,St.Andrew,Part Time
+Data Analysts,2.70,Python,SQL,R,St. James,Full Time
+Software Engineer,2.40,Python,.Net,Mean,St. Thomas,Part Time
+FrontEndDeveloper,2.80,javascript,backbone,git,St. Ann,Full Time
+Data Analysts,3.40,Python,R,Ruby,Trelawny,Full Time
+FullStackDeveloper,3.50,html,css,SQL,Clarendon,Full Time
+FrontEndDeveloper,3.40,css,javascript,vue,Portland,Full Time
+FullStackDeveloper,2.40,rails,react,php,Portland,Part Time
+FrontEndDeveloper,2.50,git,css,javascript,St. James,Part Time
+Network Analyst,3.30,ML systems,regressions,Python,Clarendon,Part Time
+Network Administrator,2.40,Python,LAN,WAN,Westmoreland,Part Time
+FrontEndDeveloper,3.40,javascript,backbone,git,St. James,Full Time
+FullStackDeveloper,3.30,rails,backbone,vue,St. Thomas,Full Time
+Data Analysts,2.90,Ruby,SQL,R,Westmoreland,Full Time
+BackEndDeveloper,2.40,git,django,rails,Portland,Part Time
+Network Analyst,2.90,SQL,hypothesis testing,Python,Westmoreland,Part Time
+FullStackDeveloper,2.70,react,SQL,django,St.Andrew,Full Time
+Data Analysts,3.40,SQL,Python,R,St. Thomas,Full Time
+FrontEndDeveloper,3.20,angular,git,html,St. James,Part Time
+FrontEndDeveloper,2.80,css,angular,javascript,Hanover,Full Time
+Network Analyst,3.10,hypothesis testing,Python,ML systems,St.Andrew,Part Time
+FullStackDeveloper,2.50,php,css,angular,Hanover,Part Time
+BackEndDeveloper,2.40,django,git,php,St. Elizabeth,Full Time
+FullStackDeveloper,3.10,html,angular,react,Hanover,Part Time
+Network Analyst,3.20,ML systems,Python,regressions,St. Elizabeth,Full Time
+FullStackDeveloper,2.90,react,rails,SQL,St.Andrew,Full Time
+Network Administrator,3.00,LAN,Python,C++,Trelawny,Full Time
+FullStackDeveloper,2.50,git,backbone,vue,St. James,Part Time
+FrontEndDeveloper,2.90,angular,git,backbone,St. James,Part Time
+Data Analysts,2.80,R,Python,SQL,St. Elizabeth,Full Time
+FullStackDeveloper,3.50,SQL,css,git,St. James,Part Time
+FrontEndDeveloper,2.50,html,javascript,css,Hanover,Full Time
+Network Administrator,2.80,WAN,LAN,TCP/IP,Manchester,Full Time
+BackEndDeveloper,2.80,django,git,rails,Kingston,Part Time
+FullStackDeveloper,3.00,backbone,css,javascript,Hanover,Full Time
+FullStackDeveloper,2.70,css,backbone,angular,St. Elizabeth,Part Time
+Network Analyst,2.80,statisticalinference,hypothesis testing,Python,St. Thomas,Full Time
+FrontEndDeveloper,2.50,vue,javascript,css,Trelawny,Part Time
+Software Engineer,3.30,Java,.Net,Mean,St. Elizabeth,Part Time
+Network Analyst,3.30,regressions,hypothesis testing,R,Westmoreland,Part Time
+Data Analysts,2.70,Python,R,Ruby,Portland,Full Time
+Network Administrator,3.20,LAN,WAN,UNIX,St. Catherine,Full Time
+Data Analysts,3.20,Ruby,Python,R,St. Elizabeth,Full Time
+BackEndDeveloper,2.60,django,php,git,St. Ann,Part Time
+Network Analyst,3.10,hypothesis testing,regressions,ML systems,Kingston,Part Time
+Network Administrator,2.50,C++,WAN,TCP/IP,Kingston,Part Time
+FullStackDeveloper,3.00,django,css,rails,Manchester,Full Time
+Software Engineer,2.50,Mean,Python,C#,St. Ann,Part Time
+Data Analysts,2.80,Ruby,SQL,Python,St. Ann,Part Time
+Network Analyst,3.20,regressions,hypothesis testing,ML systems,Kingston,Part Time
+Network Analyst,3.00,hypothesis testing,R,Python,Clarendon,Full Time
+Network Analyst,2.50,R,hypothesis testing,regressions,Manchester,Part Time
+Software Engineer,2.70,Ruby,.Net,C#,St. Thomas,Full Time
+FullStackDeveloper,2.80,javascript,css,git,Westmoreland,Full Time
+Network Administrator,2.40,UNIX,TCP/IP,Python,Hanover,Part Time
+FullStackDeveloper,3.10,javascript,rails,php,Manchester,Part Time
+Network Administrator,3.40,LAN,C++,UNIX,Manchester,Part Time
+Network Analyst,3.10,regressions,R,ML systems,Portland,Full Time
+Network Administrator,3.20,LAN,WAN,Python,Kingston,Part Time
+Network Analyst,2.60,R,statisticalinference,regressions,Portland,Part Time
+Network Analyst,2.90,SQL,R,hypothesis testing,Clarendon,Part Time
+BackEndDeveloper,2.40,rails,php,django,St. Thomas,Part Time
+Data Analysts,3.20,Python,Ruby,R,Hanover,Part Time
+BackEndDeveloper,3.00,git,rails,django,Clarendon,Part Time
+FullStackDeveloper,2.50,html,rails,react,Westmoreland,Full Time
+FullStackDeveloper,2.70,css,django,backbone,Portland,Full Time
+Network Analyst,3.00,statisticalinference,SQL,Python,St.Andrew,Part Time
+FrontEndDeveloper,3.50,angular,react,vue,Trelawny,Part Time
+BackEndDeveloper,3.20,django,php,rails,Clarendon,Part Time
+FullStackDeveloper,2.50,css,html,rails,St. Catherine,Part Time
+FrontEndDeveloper,2.70,html,vue,git,Manchester,Full Time
+Data Analysts,2.90,Ruby,SQL,Python,St.Andrew,Part Time
+Network Administrator,3.30,C++,Python,TCP/IP,Hanover,Full Time
+Software Engineer,2.50,Mean,C#,Java,St.Andrew,Full Time
+Data Analysts,2.60,R,Python,SQL,St. Catherine,Full Time
+Software Engineer,3.10,Mean,.Net,Python,Kingston,Part Time
+BackEndDeveloper,2.80,php,rails,django,St. James,Part Time
+FrontEndDeveloper,2.50,backbone,react,css,Manchester,Part Time
+BackEndDeveloper,2.80,django,php,git,Manchester,Part Time
+Network Administrator,2.60,C++,UNIX,Python,St Mary,Full Time
+Network Administrator,3.50,TCP/IP,UNIX,Python,Portland,Full Time
+FrontEndDeveloper,2.70,react,angular,javascript,Hanover,Part Time
+Network Analyst,2.60,regressions,SQL,statisticalinference,Hanover,Part Time
+Network Administrator,2.50,TCP/IP,UNIX,WAN,Hanover,Part Time
+Data Analysts,3.30,SQL,R,Python,St. James,Part Time
+BackEndDeveloper,2.70,django,rails,php,St. Catherine,Full Time
+FrontEndDeveloper,3.50,git,backbone,vue,St. James,Full Time
+FullStackDeveloper,2.90,css,angular,php,St. James,Part Time
+Data Analysts,2.80,Python,Ruby,SQL,Portland,Full Time
+FullStackDeveloper,2.60,css,angular,django,St. Thomas,Part Time
+Network Administrator,2.90,Python,LAN,TCP/IP,Trelawny,Full Time
+FullStackDeveloper,2.50,angular,SQL,html,Portland,Full Time
+Network Administrator,2.80,Python,LAN,TCP/IP,St Mary,Full Time
+Network Administrator,2.50,UNIX,TCP/IP,WAN,Hanover,Full Time
+Software Engineer,3.10,Mean,Python,Ruby,Clarendon,Full Time
+FrontEndDeveloper,3.00,javascript,react,css,St. James,Part Time
+FullStackDeveloper,2.40,css,php,vue,St. James,Part Time
+Data Analysts,2.80,Ruby,SQL,R,Kingston,Part Time
+FrontEndDeveloper,3.00,javascript,git,vue,St. Elizabeth,Part Time
+Data Analysts,2.80,R,Ruby,Python,Kingston,Part Time
+Network Administrator,2.90,UNIX,TCP/IP,C++,Trelawny,Full Time
+Network Administrator,2.70,C++,WAN,Python,Portland,Full Time
+Data Analysts,3.20,SQL,Python,Ruby,St Mary,Full Time
+Data Analysts,2.40,Python,SQL,Ruby,Clarendon,Part Time
+FullStackDeveloper,2.60,backbone,javascript,SQL,Westmoreland,Part Time
+Network Administrator,3.50,Python,TCP/IP,LAN,Hanover,Full Time
+BackEndDeveloper,3.40,rails,php,git,St. Ann,Full Time
+FrontEndDeveloper,3.00,backbone,html,git,Trelawny,Part Time
+Software Engineer,3.50,Ruby,Python,.Net,Clarendon,Full Time
+Software Engineer,3.10,C#,Python,Java,St.Andrew,Part Time
+FrontEndDeveloper,2.60,vue,react,git,St.Andrew,Full Time
+Network Analyst,3.00,Python,SQL,ML systems,Portland,Full Time
+Network Administrator,3.50,WAN,C++,LAN,St. Catherine,Part Time
+Software Engineer,2.40,Ruby,Python,Java,St Mary,Full Time
+Network Administrator,2.90,WAN,C++,LAN,St Mary,Full Time
+FullStackDeveloper,3.10,django,vue,backbone,Portland,Part Time
+FrontEndDeveloper,3.40,git,angular,javascript,St.Andrew,Full Time
+BackEndDeveloper,3.10,rails,php,django,Manchester,Part Time
+Data Analysts,2.70,Python,Ruby,SQL,St.Andrew,Full Time
+Software Engineer,2.70,.Net,Java,Python,St. Elizabeth,Full Time
+Network Administrator,2.50,TCP/IP,C++,Python,Kingston,Full Time
+BackEndDeveloper,3.20,git,rails,php,St Mary,Part Time
+Network Analyst,2.90,R,SQL,statisticalinference,St. James,Part Time
+Network Administrator,3.10,Python,WAN,C++,St. James,Full Time
+Software Engineer,2.50,Mean,Java,.Net,St. Elizabeth,Part Time
+Data Analysts,3.10,SQL,Python,Ruby,St. James,Full Time
+Data Analysts,2.40,SQL,Ruby,R,St. Ann,Full Time
+Network Administrator,3.30,UNIX,C++,Python,St. Elizabeth,Full Time
+Data Analysts,2.50,Python,Ruby,R,St. Ann,Part Time
+FullStackDeveloper,3.40,react,javascript,html,Trelawny,Part Time
+Network Analyst,3.00,statisticalinference,R,ML systems,Manchester,Full Time
+Network Analyst,3.30,Python,SQL,regressions,St. James,Full Time
+Software Engineer,2.70,Ruby,.Net,C#,Hanover,Part Time
+FullStackDeveloper,2.80,vue,django,backbone,Manchester,Part Time
+Software Engineer,2.50,Ruby,C#,Python,Portland,Part Time
+Data Analysts,3.50,SQL,R,Python,St. Thomas,Part Time
+FrontEndDeveloper,2.60,backbone,css,angular,Kingston,Full Time
+BackEndDeveloper,3.10,rails,git,django,St. Catherine,Full Time
+Network Analyst,3.50,Python,R,regressions,Kingston,Part Time
+FullStackDeveloper,3.50,angular,css,django,Hanover,Full Time
+Data Analysts,2.80,Ruby,R,Python,St. Thomas,Full Time
+BackEndDeveloper,3.40,django,git,php,St Mary,Full Time
+BackEndDeveloper,3.50,git,rails,django,St. James,Full Time
+Network Administrator,2.70,C++,Python,TCP/IP,St.Andrew,Full Time
+Data Analysts,2.50,SQL,Python,R,Manchester,Part Time
+FullStackDeveloper,2.60,php,SQL,vue,Manchester,Part Time
+BackEndDeveloper,2.90,git,rails,django,Westmoreland,Part Time
+Network Analyst,2.50,Python,hypothesis testing,regressions,St. James,Full Time
+FrontEndDeveloper,2.50,javascript,angular,react,St.Andrew,Part Time
+FrontEndDeveloper,2.80,git,backbone,css,St. Thomas,Full Time
+Network Administrator,3.50,Python,WAN,TCP/IP,Trelawny,Full Time
+Data Analysts,2.90,R,SQL,Python,Manchester,Full Time
+Network Administrator,3.00,TCP/IP,WAN,Python,St. Elizabeth,Full Time
+Network Analyst,3.30,statisticalinference,ML systems,R,St. Ann,Full Time
+Data Analysts,3.20,Python,Ruby,SQL,Kingston,Part Time
+Network Administrator,2.60,C++,TCP/IP,WAN,St.Andrew,Part Time
+Software Engineer,2.90,Ruby,Mean,Java,Clarendon,Full Time
+Network Analyst,3.30,regressions,Python,ML systems,Trelawny,Part Time
+Network Administrator,3.30,Python,UNIX,LAN,St. Thomas,Full Time
+BackEndDeveloper,2.90,git,php,django,Trelawny,Full Time
+FullStackDeveloper,2.40,git,django,html,Clarendon,Part Time
+Software Engineer,2.50,C#,Python,Ruby,Kingston,Full Time
+FullStackDeveloper,2.70,rails,react,javascript,Trelawny,Part Time
+Software Engineer,3.30,Ruby,.Net,Python,Portland,Part Time
+BackEndDeveloper,3.10,rails,git,php,Westmoreland,Full Time
+Software Engineer,2.50,Python,Ruby,Java,St. Ann,Part Time
+FullStackDeveloper,2.80,django,css,git,Portland,Full Time
+FrontEndDeveloper,2.70,css,html,git,Hanover,Part Time
+Software Engineer,2.90,Python,.Net,Ruby,Hanover,Part Time
+Software Engineer,3.00,Python,.Net,Mean,St. James,Full Time
+Software Engineer,2.90,C#,Java,Python,St. Ann,Full Time
+Network Administrator,3.10,WAN,LAN,TCP/IP,St.Andrew,Part Time
+Software Engineer,3.20,Ruby,Java,Python,St. Catherine,Part Time
+Software Engineer,3.40,.Net,Mean,C#,Westmoreland,Part Time
+FullStackDeveloper,3.00,backbone,html,rails,Portland,Full Time
+Software Engineer,2.40,.Net,Ruby,Java,St.Andrew,Full Time
+Software Engineer,2.70,.Net,Mean,Python,Manchester,Full Time
+BackEndDeveloper,3.00,rails,git,php,Hanover,Part Time
+FullStackDeveloper,3.30,html,react,git,Manchester,Full Time
+FullStackDeveloper,3.00,angular,vue,javascript,Hanover,Part Time
+FrontEndDeveloper,3.40,javascript,react,vue,Manchester,Full Time
+Data Analysts,2.90,R,Python,Ruby,Manchester,Full Time
+FullStackDeveloper,3.40,git,SQL,php,Manchester,Part Time
+BackEndDeveloper,3.30,git,php,django,Portland,Part Time
+Software Engineer,2.70,Ruby,Java,C#,St. Elizabeth,Full Time
+Software Engineer,2.90,C#,Mean,Python,St.Andrew,Part Time
+Data Analysts,3.40,Ruby,SQL,R,Trelawny,Part Time
+Data Analysts,2.40,SQL,R,Python,St. Catherine,Part Time
+FullStackDeveloper,3.10,git,react,javascript,Trelawny,Full Time
+FrontEndDeveloper,3.20,angular,javascript,backbone,Hanover,Part Time
+FrontEndDeveloper,2.70,vue,git,css,St Mary,Part Time
+FullStackDeveloper,3.20,php,django,css,St. Elizabeth,Part Time
+Software Engineer,3.20,Python,Mean,Java,Trelawny,Part Time
+Data Analysts,2.40,SQL,Ruby,R,Westmoreland,Full Time
+BackEndDeveloper,3.30,php,git,django,St. Catherine,Full Time
+FullStackDeveloper,3.50,backbone,css,rails,Portland,Part Time
+Data Analysts,3.00,R,Ruby,SQL,Westmoreland,Full Time
+Software Engineer,2.80,Java,Ruby,Mean,Manchester,Part Time
+BackEndDeveloper,3.50,rails,django,git,St. Catherine,Part Time
+Network Analyst,3.40,ML systems,Python,statisticalinference,St. Elizabeth,Part Time
+FullStackDeveloper,2.40,php,html,SQL,St Mary,Full Time
+FullStackDeveloper,2.70,rails,javascript,SQL,St. Catherine,Part Time
+Network Analyst,2.40,ML systems,R,Python,Portland,Full Time
+FrontEndDeveloper,3.20,css,vue,angular,St Mary,Full Time
+FullStackDeveloper,3.10,vue,angular,react,Kingston,Part Time
+FullStackDeveloper,3.00,vue,git,SQL,Westmoreland,Full Time
+Data Analysts,3.20,Ruby,Python,R,St Mary,Full Time
+Software Engineer,2.60,Java,Mean,Python,St. Elizabeth,Full Time
+FullStackDeveloper,3.10,angular,SQL,git,St. Thomas,Full Time
+FullStackDeveloper,2.50,javascript,django,php,St.Andrew,Part Time
+Data Analysts,3.10,SQL,Python,R,St. James,Full Time
+Data Analysts,2.50,SQL,Python,Ruby,Trelawny,Full Time
+FrontEndDeveloper,2.50,backbone,css,vue,St. Elizabeth,Full Time
+FullStackDeveloper,2.80,rails,SQL,backbone,St.Andrew,Full Time
+Data Analysts,3.20,Python,Ruby,SQL,St.Andrew,Full Time
+Network Administrator,2.60,UNIX,WAN,TCP/IP,St. Ann,Part Time
+BackEndDeveloper,2.40,django,rails,php,Trelawny,Part Time
+Data Analysts,2.40,SQL,Python,R,St. Catherine,Part Time
+Network Administrator,2.60,UNIX,Python,TCP/IP,Kingston,Full Time
+Network Analyst,3.10,ML systems,statisticalinference,R,St. Elizabeth,Part Time
+Software Engineer,3.40,Ruby,Python,C#,St Mary,Full Time
+Software Engineer,2.90,.Net,Ruby,Java,Kingston,Part Time
+Software Engineer,3.40,Ruby,Mean,Java,Westmoreland,Part Time
+FullStackDeveloper,2.60,javascript,django,html,Clarendon,Part Time
+Network Administrator,3.10,C++,LAN,Python,Hanover,Full Time
+Software Engineer,2.40,Java,Python,.Net,Manchester,Part Time
+Network Administrator,3.00,WAN,C++,TCP/IP,Clarendon,Part Time
+Software Engineer,3.00,Ruby,C#,Mean,Manchester,Full Time
+BackEndDeveloper,2.60,php,django,rails,St. Thomas,Full Time
+FrontEndDeveloper,2.60,vue,backbone,react,Westmoreland,Part Time
+Software Engineer,2.50,Java,Mean,Python,St. Catherine,Part Time
+Network Administrator,2.70,TCP/IP,LAN,UNIX,Trelawny,Part Time
+FrontEndDeveloper,3.00,git,angular,vue,St. Thomas,Full Time
+Network Analyst,3.00,statisticalinference,regressions,hypothesis testing,Manchester,Full Time
+Software Engineer,2.60,Ruby,Mean,Python,Westmoreland,Part Time
+Data Analysts,3.00,Ruby,SQL,R,Trelawny,Part Time
+Data Analysts,3.00,Python,Ruby,SQL,St. Ann,Part Time
+Software Engineer,2.60,C#,Ruby,Java,Trelawny,Full Time
+FrontEndDeveloper,3.30,html,angular,css,Clarendon,Full Time
+Network Administrator,3.40,UNIX,Python,C++,Westmoreland,Part Time
+FullStackDeveloper,3.50,javascript,vue,html,Hanover,Part Time
+FullStackDeveloper,3.30,django,git,angular,St Mary,Part Time
+Network Administrator,2.50,UNIX,TCP/IP,LAN,Trelawny,Part Time
+Network Analyst,2.80,hypothesis testing,R,SQL,St Mary,Part Time
+Network Analyst,2.90,hypothesis testing,SQL,ML systems,Westmoreland,Full Time
+Network Administrator,2.40,C++,Python,LAN,St. Catherine,Part Time
+Software Engineer,3.00,Java,.Net,C#,Manchester,Full Time
+Data Analysts,3.30,SQL,Python,Ruby,St. Catherine,Part Time
+Data Analysts,2.40,Python,R,Ruby,Manchester,Part Time
+FullStackDeveloper,3.30,css,git,rails,Westmoreland,Full Time
+FrontEndDeveloper,2.40,react,git,backbone,St. James,Full Time
+FrontEndDeveloper,2.80,react,angular,javascript,St. James,Part Time
+Network Analyst,2.60,SQL,Python,R,St Mary,Part Time
+FrontEndDeveloper,2.50,git,css,angular,Hanover,Full Time
+Network Administrator,2.40,LAN,C++,Python,Trelawny,Full Time
+FullStackDeveloper,2.90,SQL,react,vue,Trelawny,Part Time
+BackEndDeveloper,2.40,django,php,git,Trelawny,Part Time
+Data Analysts,2.80,R,Ruby,Python,Manchester,Part Time
+BackEndDeveloper,3.40,php,git,rails,Westmoreland,Full Time
+Network Analyst,3.10,ML systems,hypothesis testing,Python,St. Ann,Part Time
+Data Analysts,2.50,R,Python,SQL,St. James,Part Time
+BackEndDeveloper,2.50,rails,django,git,St. Elizabeth,Part Time
+Network Administrator,3.20,TCP/IP,WAN,Python,Portland,Part Time
+Data Analysts,3.00,R,SQL,Python,Kingston,Part Time
+Network Administrator,3.40,UNIX,TCP/IP,LAN,St.Andrew,Part Time
+FullStackDeveloper,2.70,backbone,php,SQL,Hanover,Full Time
+FrontEndDeveloper,2.90,angular,css,react,Hanover,Full Time
+Software Engineer,2.60,Python,C#,Ruby,Portland,Full Time
+Software Engineer,3.50,.Net,C#,Ruby,St. Elizabeth,Part Time
+BackEndDeveloper,2.40,git,php,django,Portland,Part Time
+BackEndDeveloper,3.30,rails,git,django,Trelawny,Part Time
+FrontEndDeveloper,2.80,git,vue,angular,St. Catherine,Full Time
+Network Administrator,3.00,TCP/IP,UNIX,LAN,St. Thomas,Full Time
+Data Analysts,2.80,R,Python,Ruby,Portland,Full Time
+BackEndDeveloper,3.40,rails,git,php,Hanover,Part Time
+Network Administrator,3.10,C++,TCP/IP,WAN,Hanover,Full Time
+Network Analyst,3.30,SQL,R,statisticalinference,Clarendon,Full Time
+Network Analyst,2.70,statisticalinference,SQL,Python,St. Thomas,Full Time
+Network Administrator,2.90,Python,TCP/IP,C++,Trelawny,Part Time
+Network Administrator,3.20,LAN,C++,TCP/IP,Hanover,Full Time
+Data Analysts,2.80,Ruby,SQL,R,Portland,Part Time
+BackEndDeveloper,3.50,git,rails,php,Kingston,Full Time
+Network Administrator,2.80,Python,WAN,UNIX,Clarendon,Full Time
+Network Analyst,3.40,hypothesis testing,Python,statisticalinference,St. Catherine,Full Time
+FrontEndDeveloper,3.40,angular,css,react,Clarendon,Full Time
+Data Analysts,2.70,SQL,Python,Ruby,St. Elizabeth,Part Time
+BackEndDeveloper,2.60,rails,django,php,Portland,Part Time
+FullStackDeveloper,2.40,rails,react,css,Westmoreland,Part Time
+Software Engineer,2.40,Python,Java,.Net,St.Andrew,Full Time
+FullStackDeveloper,2.50,backbone,angular,git,Clarendon,Full Time
+FrontEndDeveloper,3.10,angular,backbone,javascript,Kingston,Part Time
+FrontEndDeveloper,2.60,react,vue,backbone,Clarendon,Part Time
+BackEndDeveloper,3.30,django,git,rails,St. Ann,Part Time
+Software Engineer,2.60,Java,Mean,Ruby,St. Elizabeth,Part Time
+BackEndDeveloper,3.20,php,git,rails,Trelawny,Part Time
+FrontEndDeveloper,3.50,css,react,javascript,Trelawny,Part Time
+FrontEndDeveloper,2.90,git,backbone,react,St Mary,Part Time
+Software Engineer,3.10,Ruby,.Net,Java,St. Catherine,Full Time
+Network Analyst,2.70,SQL,statisticalinference,ML systems,Trelawny,Part Time
+Network Analyst,3.50,SQL,R,statisticalinference,St Mary,Full Time
+Software Engineer,3.00,Python,.Net,C#,St.Andrew,Part Time
+BackEndDeveloper,2.50,rails,django,php,Kingston,Part Time
+FullStackDeveloper,2.40,react,backbone,css,Hanover,Part Time
+Network Administrator,3.40,UNIX,Python,LAN,Hanover,Part Time
+FullStackDeveloper,2.40,SQL,rails,react,St. Elizabeth,Part Time
+Data Analysts,3.10,SQL,Ruby,R,Clarendon,Full Time
+Network Analyst,2.50,regressions,SQL,statisticalinference,Trelawny,Full Time
+Software Engineer,3.40,C#,Ruby,Mean,Trelawny,Full Time
+BackEndDeveloper,3.20,rails,git,php,Manchester,Part Time
+Software Engineer,3.20,Mean,Java,C#,St. Ann,Part Time
+Network Administrator,3.40,C++,UNIX,Python,St. Thomas,Part Time
+Software Engineer,2.50,C#,Mean,Java,Trelawny,Part Time
+FullStackDeveloper,2.40,vue,javascript,html,Hanover,Full Time
+FullStackDeveloper,3.00,git,rails,javascript,Hanover,Full Time
