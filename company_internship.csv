@@ -1,0 +1,500 @@
+Position,GPA,Skills,Parish,Employment Type
+BackEndDeveloper,3.1,"['git', 'rails', 'php']",Trelawny,Full Time
+FullStackDeveloper,3.0,"['html', 'rails', 'backbone']",St Mary,Part Time
+Network Analyst,3.3,"['SQL', 'regressions', 'ML systems']",St. Elizabeth,Part Time
+Data Analysts,3.3,"['Python', 'SQL', 'R']",Portland,Part Time
+FrontEndDeveloper,3.3,"['vue', 'react', 'angular']",Kingston,Full Time
+FullStackDeveloper,3.0,"['git', 'django', 'backbone']",Clarendon,Full Time
+FullStackDeveloper,3.4,"['git', 'backbone', 'angular']",St. Elizabeth,Part Time
+BackEndDeveloper,3.0,"['php', 'rails', 'git']",St. Elizabeth,Full Time
+Software Engineer,2.9,"['Ruby', 'Java', 'Python']",Portland,Full Time
+BackEndDeveloper,2.7,"['git', 'django', 'rails']",Clarendon,Full Time
+BackEndDeveloper,2.9,"['django', 'php', 'rails']",Westmoreland,Part Time
+Software Engineer,2.8,"['Python', 'Ruby', '.Net']",St Mary,Full Time
+Network Administrator,2.6,"['C++', 'LAN', 'WAN']",Westmoreland,Part Time
+Network Administrator,2.8,"['Python', 'UNIX', 'C++']",St. James,Part Time
+Network Analyst,2.7,"['ML systems', 'R', 'Python']",Hanover,Full Time
+Software Engineer,2.7,"['Java', '.Net', 'Ruby']",Clarendon,Full Time
+Software Engineer,3.5,"['Ruby', '.Net', 'Mean']",Portland,Full Time
+Network Analyst,2.8,"['ML systems', 'statisticalinference', 'R']",St. James,Full Time
+Software Engineer,3.5,"['.Net', 'Ruby', 'Python']",Hanover,Part Time
+Software Engineer,3.2,"['Python', 'Mean', 'C#']",St. Ann,Part Time
+FrontEndDeveloper,3.1,"['html', 'javascript', 'vue']",Manchester,Part Time
+Software Engineer,2.6,"['.Net', 'Mean', 'Ruby']",St.Andrew,Full Time
+Network Administrator,2.4,"['LAN', 'TCP/IP', 'Python']",St.Andrew,Full Time
+Software Engineer,3.1,"['Ruby', 'Mean', 'Java']",Hanover,Part Time
+Data Analysts,2.4,"['Ruby', 'R', 'Python']",St. Elizabeth,Full Time
+Data Analysts,2.6,"['R', 'SQL', 'Python']",St. Thomas,Full Time
+FrontEndDeveloper,3.5,"['angular', 'javascript', 'react']",St.Andrew,Part Time
+BackEndDeveloper,2.7,"['django', 'git', 'rails']",Kingston,Part Time
+Network Analyst,2.9,"['regressions', 'hypothesis testing', 'SQL']",St. James,Full Time
+Network Administrator,2.6,"['Python', 'TCP/IP', 'WAN']",Westmoreland,Part Time
+FrontEndDeveloper,3.1,"['angular', 'vue', 'javascript']",Portland,Part Time
+FrontEndDeveloper,2.4,"['git', 'javascript', 'css']",Trelawny,Full Time
+Data Analysts,2.6,"['SQL', 'R', 'Python']",Hanover,Full Time
+BackEndDeveloper,3.5,"['php', 'git', 'rails']",Kingston,Part Time
+Data Analysts,2.9,"['Ruby', 'R', 'SQL']",St. Catherine,Part Time
+FullStackDeveloper,3.1,"['backbone', 'git', 'php']",Hanover,Full Time
+FullStackDeveloper,2.4,"['SQL', 'vue', 'react']",St.Andrew,Full Time
+Software Engineer,2.5,"['Java', 'Python', 'C#']",St. Ann,Part Time
+BackEndDeveloper,3.5,"['php', 'django', 'git']",St Mary,Full Time
+Network Administrator,2.8,"['LAN', 'C++', 'UNIX']",Hanover,Part Time
+Network Analyst,2.5,"['R', 'statisticalinference', 'regressions']",St. Thomas,Part Time
+FrontEndDeveloper,2.8,"['git', 'vue', 'css']",Portland,Part Time
+FullStackDeveloper,3.2,"['javascript', 'html', 'angular']",Westmoreland,Part Time
+FullStackDeveloper,3.0,"['angular', 'javascript', 'vue']",Manchester,Part Time
+Network Analyst,3.0,"['hypothesis testing', 'Python', 'ML systems']",St. Thomas,Part Time
+Software Engineer,2.5,"['Java', 'C#', 'Ruby']",Kingston,Full Time
+FullStackDeveloper,3.5,"['javascript', 'php', 'backbone']",Trelawny,Full Time
+Network Analyst,2.6,"['statisticalinference', 'R', 'Python']",Manchester,Full Time
+Network Administrator,3.5,"['UNIX', 'LAN', 'WAN']",St. Thomas,Part Time
+BackEndDeveloper,3.3,"['django', 'php', 'rails']",St Mary,Part Time
+FrontEndDeveloper,2.9,"['javascript', 'css', 'angular']",Trelawny,Full Time
+BackEndDeveloper,3.1,"['git', 'php', 'django']",Westmoreland,Part Time
+BackEndDeveloper,3.2,"['django', 'php', 'rails']",St. James,Full Time
+FrontEndDeveloper,2.4,"['html', 'git', 'backbone']",St.Andrew,Full Time
+Software Engineer,2.8,"['Mean', 'Java', 'C#']",St. James,Part Time
+FullStackDeveloper,3.2,"['javascript', 'SQL', 'rails']",St.Andrew,Full Time
+Network Administrator,3.2,"['C++', 'Python', 'TCP/IP']",Portland,Part Time
+Software Engineer,3.4,"['Java', 'Mean', 'Ruby']",Manchester,Full Time
+Software Engineer,3.2,"['C#', 'Ruby', '.Net']",St. Thomas,Full Time
+Network Administrator,3.0,"['WAN', 'Python', 'C++']",Manchester,Full Time
+BackEndDeveloper,3.3,"['git', 'rails', 'php']",St Mary,Full Time
+BackEndDeveloper,3.3,"['django', 'php', 'git']",Manchester,Part Time
+Software Engineer,2.7,"['.Net', 'Mean', 'Python']",St. Catherine,Full Time
+FrontEndDeveloper,2.7,"['javascript', 'html', 'react']",St. Ann,Part Time
+Network Administrator,2.9,"['Python', 'TCP/IP', 'UNIX']",St. Ann,Full Time
+FrontEndDeveloper,3.3,"['css', 'javascript', 'html']",St. Thomas,Part Time
+Software Engineer,3.4,"['.Net', 'Mean', 'Python']",St. Catherine,Full Time
+Network Analyst,3.4,"['hypothesis testing', 'Python', 'SQL']",St. Catherine,Full Time
+BackEndDeveloper,3.1,"['git', 'php', 'django']",Manchester,Part Time
+Network Analyst,3.4,"['R', 'SQL', 'ML systems']",St. Thomas,Part Time
+FrontEndDeveloper,2.9,"['css', 'javascript', 'html']",St.Andrew,Part Time
+Network Analyst,3.4,"['hypothesis testing', 'R', 'ML systems']",Kingston,Part Time
+BackEndDeveloper,2.6,"['git', 'django', 'php']",St. Thomas,Part Time
+FrontEndDeveloper,2.5,"['css', 'backbone', 'angular']",Trelawny,Full Time
+Network Analyst,2.9,"['ML systems', 'hypothesis testing', 'SQL']",St.Andrew,Part Time
+Network Administrator,2.5,"['C++', 'LAN', 'UNIX']",St.Andrew,Full Time
+BackEndDeveloper,3.1,"['php', 'git', 'rails']",Clarendon,Part Time
+Network Analyst,3.2,"['regressions', 'statisticalinference', 'Python']",St Mary,Full Time
+BackEndDeveloper,2.5,"['django', 'php', 'rails']",Kingston,Part Time
+Network Analyst,3.5,"['statisticalinference', 'regressions', 'hypothesis testing']",Manchester,Full Time
+FrontEndDeveloper,2.7,"['javascript', 'git', 'backbone']",St. Thomas,Full Time
+Data Analysts,2.6,"['R', 'Ruby', 'Python']",Portland,Part Time
+Data Analysts,3.5,"['R', 'SQL', 'Python']",Clarendon,Part Time
+Network Administrator,3.4,"['TCP/IP', 'C++', 'Python']",Hanover,Full Time
+FrontEndDeveloper,3.0,"['git', 'backbone', 'vue']",St. Elizabeth,Full Time
+Network Analyst,3.0,"['regressions', 'R', 'Python']",Manchester,Full Time
+FullStackDeveloper,2.7,"['php', 'vue', 'css']",St.Andrew,Part Time
+FullStackDeveloper,2.7,"['react', 'php', 'SQL']",Hanover,Full Time
+Data Analysts,3.0,"['Ruby', 'SQL', 'Python']",Kingston,Full Time
+FrontEndDeveloper,2.7,"['css', 'react', 'html']",Hanover,Part Time
+BackEndDeveloper,2.4,"['git', 'rails', 'php']",Westmoreland,Full Time
+Network Analyst,3.5,"['SQL', 'Python', 'ML systems']",St Mary,Full Time
+FullStackDeveloper,3.0,"['html', 'rails', 'angular']",St. Thomas,Part Time
+Network Administrator,2.9,"['LAN', 'WAN', 'C++']",Kingston,Part Time
+Network Analyst,2.6,"['ML systems', 'hypothesis testing', 'SQL']",Clarendon,Part Time
+Software Engineer,2.7,"['.Net', 'Python', 'Java']",Clarendon,Full Time
+FrontEndDeveloper,2.6,"['git', 'backbone', 'vue']",Kingston,Full Time
+Network Analyst,3.0,"['SQL', 'statisticalinference', 'R']",Manchester,Part Time
+Data Analysts,2.4,"['Python', 'R', 'SQL']",St.Andrew,Full Time
+FullStackDeveloper,3.4,"['css', 'rails', 'git']",St. Elizabeth,Part Time
+Data Analysts,2.5,"['Ruby', 'R', 'SQL']",Clarendon,Full Time
+Network Administrator,2.5,"['Python', 'TCP/IP', 'WAN']",Westmoreland,Full Time
+Network Analyst,2.5,"['hypothesis testing', 'regressions', 'R']",St. James,Full Time
+FrontEndDeveloper,2.6,"['css', 'react', 'backbone']",Hanover,Part Time
+Network Analyst,2.9,"['Python', 'regressions', 'R']",St. Elizabeth,Part Time
+Network Analyst,2.7,"['Python', 'hypothesis testing', 'ML systems']",St. Catherine,Part Time
+Data Analysts,3.4,"['SQL', 'Python', 'Ruby']",Manchester,Full Time
+Data Analysts,2.9,"['Python', 'R', 'SQL']",Trelawny,Part Time
+Data Analysts,3.1,"['R', 'Ruby', 'Python']",St.Andrew,Part Time
+FullStackDeveloper,3.5,"['backbone', 'html', 'react']",Portland,Part Time
+FullStackDeveloper,3.2,"['rails', 'vue', 'javascript']",St. Thomas,Full Time
+FullStackDeveloper,3.4,"['angular', 'vue', 'backbone']",Manchester,Part Time
+Software Engineer,3.1,"['C#', '.Net', 'Java']",St. Catherine,Part Time
+Data Analysts,2.5,"['Ruby', 'Python', 'SQL']",St. Catherine,Part Time
+Network Administrator,2.5,"['WAN', 'LAN', 'TCP/IP']",Hanover,Part Time
+Network Administrator,3.3,"['WAN', 'LAN', 'C++']",Trelawny,Part Time
+BackEndDeveloper,2.4,"['git', 'php', 'django']",Trelawny,Part Time
+Network Administrator,2.7,"['UNIX', 'C++', 'WAN']",Trelawny,Part Time
+Network Analyst,3.2,"['R', 'statisticalinference', 'SQL']",St.Andrew,Part Time
+Data Analysts,3.3,"['R', 'SQL', 'Ruby']",Clarendon,Full Time
+FrontEndDeveloper,3.0,"['vue', 'backbone', 'react']",St.Andrew,Full Time
+BackEndDeveloper,3.4,"['php', 'rails', 'django']",St Mary,Full Time
+Data Analysts,3.2,"['R', 'Python', 'SQL']",Westmoreland,Full Time
+BackEndDeveloper,3.1,"['django', 'rails', 'git']",Hanover,Part Time
+BackEndDeveloper,3.0,"['rails', 'django', 'php']",Portland,Full Time
+Software Engineer,2.8,"['Python', 'Mean', '.Net']",St Mary,Full Time
+Network Analyst,2.5,"['SQL', 'regressions', 'statisticalinference']",St. Ann,Part Time
+FullStackDeveloper,3.5,"['react', 'html', 'css']",Clarendon,Part Time
+Data Analysts,2.8,"['Ruby', 'SQL', 'R']",St. James,Part Time
+Data Analysts,2.9,"['R', 'Python', 'Ruby']",St. Elizabeth,Part Time
+FrontEndDeveloper,2.8,"['git', 'javascript', 'html']",Kingston,Full Time
+FrontEndDeveloper,2.6,"['vue', 'css', 'react']",St. Catherine,Part Time
+Data Analysts,3.4,"['R', 'Python', 'Ruby']",Hanover,Part Time
+Network Administrator,3.4,"['WAN', 'LAN', 'UNIX']",St. Thomas,Part Time
+FrontEndDeveloper,3.3,"['angular', 'git', 'html']",St. Elizabeth,Full Time
+FullStackDeveloper,2.9,"['backbone', 'rails', 'react']",Clarendon,Full Time
+Data Analysts,3.0,"['Ruby', 'R', 'SQL']",St. Thomas,Part Time
+Network Analyst,3.1,"['regressions', 'statisticalinference', 'ML systems']",St.Andrew,Full Time
+Network Analyst,2.9,"['SQL', 'R', 'statisticalinference']",Manchester,Part Time
+Data Analysts,3.4,"['R', 'Ruby', 'SQL']",Clarendon,Part Time
+Network Analyst,2.7,"['statisticalinference', 'regressions', 'hypothesis testing']",St. Catherine,Part Time
+FrontEndDeveloper,3.0,"['backbone', 'html', 'react']",Kingston,Full Time
+Software Engineer,3.5,"['Mean', 'Ruby', 'Java']",St. Thomas,Part Time
+Data Analysts,3.3,"['R', 'SQL', 'Ruby']",St Mary,Full Time
+FrontEndDeveloper,3.4,"['css', 'git', 'react']",St. Elizabeth,Part Time
+FullStackDeveloper,3.5,"['SQL', 'php', 'backbone']",Clarendon,Full Time
+Data Analysts,2.5,"['SQL', 'Python', 'Ruby']",St. Elizabeth,Part Time
+Network Administrator,2.9,"['Python', 'UNIX', 'TCP/IP']",St. Ann,Full Time
+FrontEndDeveloper,2.8,"['angular', 'git', 'react']",Clarendon,Part Time
+FrontEndDeveloper,3.4,"['css', 'javascript', 'git']",St. Ann,Full Time
+Network Analyst,3.0,"['regressions', 'R', 'ML systems']",St. Elizabeth,Part Time
+Data Analysts,3.2,"['Ruby', 'R', 'Python']",Manchester,Part Time
+Software Engineer,3.5,"['.Net', 'C#', 'Ruby']",Manchester,Full Time
+Data Analysts,3.2,"['R', 'Python', 'Ruby']",St. Catherine,Part Time
+FrontEndDeveloper,2.5,"['css', 'angular', 'backbone']",Portland,Full Time
+FullStackDeveloper,2.9,"['git', 'html', 'react']",Trelawny,Part Time
+Software Engineer,3.0,"['Mean', 'Python', 'Ruby']",St. Thomas,Part Time
+BackEndDeveloper,2.7,"['rails', 'git', 'django']",Manchester,Part Time
+Network Analyst,2.6,"['regressions', 'R', 'statisticalinference']",St. Thomas,Full Time
+Network Administrator,2.7,"['UNIX', 'WAN', 'LAN']",St. James,Full Time
+Network Analyst,2.4,"['ML systems', 'R', 'Python']",St. Elizabeth,Full Time
+BackEndDeveloper,2.8,"['django', 'rails', 'php']",Portland,Full Time
+Software Engineer,3.2,"['Java', 'Mean', '.Net']",St. Ann,Part Time
+FrontEndDeveloper,3.0,"['css', 'git', 'react']",Portland,Full Time
+FrontEndDeveloper,3.3,"['css', 'vue', 'backbone']",St.Andrew,Full Time
+FrontEndDeveloper,3.0,"['react', 'html', 'angular']",St. Elizabeth,Part Time
+Network Administrator,2.5,"['Python', 'TCP/IP', 'WAN']",St Mary,Part Time
+FullStackDeveloper,2.8,"['django', 'SQL', 'angular']",St.Andrew,Full Time
+Data Analysts,2.6,"['Python', 'SQL', 'Ruby']",Hanover,Part Time
+Data Analysts,2.4,"['SQL', 'Python', 'Ruby']",St. Thomas,Part Time
+Network Analyst,2.4,"['regressions', 'Python', 'statisticalinference']",Clarendon,Part Time
+FrontEndDeveloper,2.7,"['angular', 'html', 'vue']",St. James,Full Time
+Network Administrator,3.5,"['TCP/IP', 'Python', 'LAN']",Clarendon,Full Time
+Network Administrator,2.8,"['TCP/IP', 'LAN', 'WAN']",St Mary,Full Time
+Network Analyst,3.5,"['regressions', 'Python', 'R']",St Mary,Part Time
+Network Administrator,3.1,"['UNIX', 'TCP/IP', 'LAN']",Portland,Full Time
+Data Analysts,3.1,"['Python', 'R', 'Ruby']",Westmoreland,Full Time
+Network Analyst,3.5,"['Python', 'SQL', 'hypothesis testing']",St.Andrew,Part Time
+BackEndDeveloper,3.1,"['php', 'django', 'rails']",St. Ann,Full Time
+FullStackDeveloper,3.1,"['php', 'css', 'html']",St. Ann,Part Time
+FrontEndDeveloper,3.2,"['vue', 'css', 'backbone']",St. James,Part Time
+Network Administrator,3.3,"['C++', 'Python', 'LAN']",Clarendon,Full Time
+Network Administrator,3.4,"['C++', 'Python', 'TCP/IP']",Kingston,Full Time
+Network Administrator,3.3,"['UNIX', 'Python', 'LAN']",Trelawny,Part Time
+Software Engineer,3.5,"['Python', '.Net', 'Ruby']",Kingston,Part Time
+Network Analyst,3.3,"['ML systems', 'Python', 'statisticalinference']",Westmoreland,Part Time
+Data Analysts,3.0,"['SQL', 'Ruby', 'R']",St. Elizabeth,Full Time
+Data Analysts,3.1,"['Python', 'Ruby', 'SQL']",Kingston,Full Time
+BackEndDeveloper,2.4,"['rails', 'git', 'django']",Manchester,Full Time
+Software Engineer,2.7,"['Java', 'Ruby', 'Python']",Westmoreland,Part Time
+Network Administrator,3.4,"['C++', 'TCP/IP', 'Python']",St. Ann,Full Time
+Network Analyst,2.8,"['hypothesis testing', 'statisticalinference', 'SQL']",St. Elizabeth,Full Time
+FrontEndDeveloper,3.4,"['react', 'git', 'html']",St.Andrew,Full Time
+FullStackDeveloper,2.9,"['git', 'SQL', 'angular']",Portland,Full Time
+FrontEndDeveloper,3.1,"['react', 'angular', 'backbone']",St.Andrew,Part Time
+Network Analyst,2.9,"['SQL', 'statisticalinference', 'Python']",St. Thomas,Part Time
+FullStackDeveloper,3.3,"['django', 'vue', 'git']",St. Ann,Full Time
+FullStackDeveloper,2.7,"['react', 'php', 'css']",St.Andrew,Full Time
+Network Administrator,3.5,"['UNIX', 'Python', 'TCP/IP']",St. Elizabeth,Full Time
+FullStackDeveloper,3.3,"['git', 'javascript', 'rails']",St.Andrew,Full Time
+BackEndDeveloper,3.5,"['git', 'rails', 'php']",Hanover,Part Time
+FrontEndDeveloper,3.3,"['vue', 'git', 'javascript']",St. Ann,Full Time
+BackEndDeveloper,3.3,"['php', 'rails', 'git']",St. Catherine,Part Time
+FrontEndDeveloper,2.8,"['angular', 'css', 'html']",Portland,Full Time
+Data Analysts,3.3,"['Python', 'SQL', 'Ruby']",St. Catherine,Part Time
+Data Analysts,3.4,"['SQL', 'Python', 'Ruby']",Trelawny,Full Time
+Data Analysts,3.0,"['R', 'Python', 'Ruby']",Manchester,Part Time
+Network Administrator,3.4,"['UNIX', 'LAN', 'C++']",Trelawny,Full Time
+Data Analysts,3.1,"['SQL', 'R', 'Python']",Kingston,Part Time
+Network Administrator,2.6,"['LAN', 'UNIX', 'Python']",St. James,Full Time
+FrontEndDeveloper,3.2,"['html', 'backbone', 'vue']",St. Elizabeth,Part Time
+BackEndDeveloper,2.8,"['php', 'django', 'git']",St.Andrew,Part Time
+Network Administrator,3.5,"['WAN', 'Python', 'C++']",St Mary,Part Time
+Data Analysts,2.7,"['SQL', 'Python', 'Ruby']",St.Andrew,Part Time
+Software Engineer,3.0,"['C#', 'Python', 'Java']",Clarendon,Full Time
+Software Engineer,2.4,"['Mean', 'C#', 'Java']",St. James,Part Time
+Data Analysts,2.4,"['R', 'Ruby', 'Python']",St. Catherine,Full Time
+Network Administrator,2.9,"['TCP/IP', 'LAN', 'UNIX']",Clarendon,Part Time
+BackEndDeveloper,2.6,"['django', 'git', 'php']",Manchester,Part Time
+Data Analysts,2.8,"['R', 'Ruby', 'Python']",Clarendon,Full Time
+Data Analysts,2.6,"['Python', 'SQL', 'R']",St. Thomas,Full Time
+Network Analyst,3.2,"['SQL', 'regressions', 'Python']",St. Ann,Part Time
+Network Administrator,3.0,"['Python', 'WAN', 'TCP/IP']",St. Ann,Full Time
+FullStackDeveloper,2.4,"['php', 'javascript', 'vue']",St. James,Part Time
+Network Administrator,2.6,"['WAN', 'TCP/IP', 'LAN']",St. Ann,Part Time
+Software Engineer,3.3,"['Ruby', 'Mean', 'Python']",Westmoreland,Full Time
+BackEndDeveloper,3.1,"['git', 'rails', 'php']",St. Elizabeth,Part Time
+Network Analyst,3.5,"['statisticalinference', 'Python', 'SQL']",Westmoreland,Full Time
+Software Engineer,2.8,"['Java', 'Mean', 'Python']",Clarendon,Part Time
+FullStackDeveloper,3.4,"['html', 'SQL', 'git']",Trelawny,Part Time
+Software Engineer,2.6,"['Mean', 'Python', '.Net']",Westmoreland,Full Time
+FullStackDeveloper,2.4,"['SQL', 'css', 'backbone']",St. Elizabeth,Full Time
+Software Engineer,2.8,"['Python', 'Mean', 'Ruby']",Manchester,Part Time
+Data Analysts,3.4,"['Ruby', 'Python', 'SQL']",St. Elizabeth,Part Time
+Network Administrator,2.9,"['TCP/IP', 'Python', 'WAN']",Manchester,Full Time
+FrontEndDeveloper,2.7,"['css', 'vue', 'angular']",Hanover,Part Time
+Data Analysts,2.5,"['R', 'Python', 'Ruby']",St.Andrew,Full Time
+Software Engineer,2.7,"['Mean', 'Java', 'C#']",St. Thomas,Part Time
+Network Analyst,3.2,"['SQL', 'regressions', 'ML systems']",Manchester,Part Time
+FullStackDeveloper,2.8,"['django', 'css', 'php']",St.Andrew,Part Time
+Data Analysts,3.5,"['R', 'Python', 'SQL']",Westmoreland,Part Time
+Network Administrator,3.5,"['UNIX', 'LAN', 'TCP/IP']",St Mary,Full Time
+BackEndDeveloper,3.0,"['django', 'rails', 'php']",St. Catherine,Full Time
+Network Analyst,3.1,"['Python', 'regressions', 'R']",Trelawny,Part Time
+FrontEndDeveloper,2.4,"['css', 'git', 'react']",St. Elizabeth,Part Time
+Data Analysts,3.3,"['R', 'SQL', 'Ruby']",St. James,Part Time
+FrontEndDeveloper,2.5,"['backbone', 'react', 'git']",St. Thomas,Full Time
+Network Analyst,3.0,"['hypothesis testing', 'regressions', 'statisticalinference']",St. James,Part Time
+FrontEndDeveloper,3.3,"['css', 'javascript', 'vue']",St. Ann,Full Time
+FrontEndDeveloper,2.7,"['vue', 'git', 'react']",St. James,Full Time
+FrontEndDeveloper,3.1,"['angular', 'javascript', 'react']",Kingston,Part Time
+Software Engineer,3.3,"['.Net', 'Ruby', 'Java']",Clarendon,Part Time
+Data Analysts,2.7,"['SQL', 'Ruby', 'Python']",St. Ann,Part Time
+Data Analysts,2.4,"['SQL', 'Python', 'Ruby']",St. James,Full Time
+FullStackDeveloper,2.9,"['git', 'SQL', 'javascript']",St. Thomas,Full Time
+FullStackDeveloper,2.4,"['react', 'html', 'php']",Westmoreland,Full Time
+Network Administrator,3.5,"['UNIX', 'TCP/IP', 'Python']",St Mary,Full Time
+Network Administrator,2.9,"['TCP/IP', 'UNIX', 'C++']",St Mary,Full Time
+Software Engineer,3.3,"['C#', '.Net', 'Python']",Manchester,Full Time
+Data Analysts,3.1,"['R', 'SQL', 'Python']",St. Elizabeth,Full Time
+FullStackDeveloper,3.1,"['vue', 'django', 'SQL']",St. Thomas,Part Time
+Network Administrator,3.5,"['LAN', 'TCP/IP', 'UNIX']",Trelawny,Full Time
+Data Analysts,2.9,"['R', 'Ruby', 'SQL']",St. Catherine,Part Time
+FullStackDeveloper,3.3,"['react', 'rails', 'backbone']",St. Elizabeth,Full Time
+FullStackDeveloper,2.7,"['javascript', 'react', 'rails']",St. Thomas,Part Time
+Network Analyst,2.7,"['Python', 'hypothesis testing', 'regressions']",St.Andrew,Part Time
+Software Engineer,3.2,"['.Net', 'Java', 'Mean']",Clarendon,Part Time
+FrontEndDeveloper,2.5,"['css', 'react', 'html']",St. Catherine,Full Time
+Network Administrator,2.9,"['UNIX', 'LAN', 'TCP/IP']",Trelawny,Part Time
+Software Engineer,2.6,"['Mean', 'Python', 'Ruby']",Trelawny,Part Time
+Data Analysts,3.0,"['Python', 'R', 'SQL']",Trelawny,Full Time
+FrontEndDeveloper,2.9,"['css', 'backbone', 'html']",St. Ann,Full Time
+Network Administrator,3.1,"['UNIX', 'LAN', 'TCP/IP']",St. Ann,Full Time
+Network Analyst,2.5,"['statisticalinference', 'hypothesis testing', 'R']",St. Elizabeth,Part Time
+Software Engineer,3.0,"['Java', '.Net', 'Mean']",Trelawny,Part Time
+Network Administrator,3.1,"['LAN', 'WAN', 'Python']",St.Andrew,Full Time
+Network Administrator,2.6,"['UNIX', 'LAN', 'WAN']",St. Elizabeth,Part Time
+Data Analysts,2.7,"['R', 'Ruby', 'Python']",Hanover,Part Time
+Network Analyst,3.4,"['ML systems', 'Python', 'hypothesis testing']",Clarendon,Full Time
+FrontEndDeveloper,3.5,"['vue', 'javascript', 'git']",Manchester,Full Time
+BackEndDeveloper,3.5,"['rails', 'django', 'git']",Portland,Full Time
+Network Analyst,2.8,"['hypothesis testing', 'regressions', 'Python']",Hanover,Part Time
+Software Engineer,2.6,"['.Net', 'C#', 'Python']",Kingston,Full Time
+Software Engineer,3.1,"['C#', '.Net', 'Java']",Trelawny,Full Time
+FullStackDeveloper,3.5,"['angular', 'javascript', 'vue']",St.Andrew,Part Time
+Data Analysts,2.7,"['R', 'Ruby', 'Python']",St.Andrew,Part Time
+BackEndDeveloper,3.2,"['git', 'php', 'rails']",Manchester,Part Time
+Software Engineer,3.2,"['Mean', 'Ruby', 'Java']",St. Elizabeth,Full Time
+Data Analysts,3.4,"['Python', 'SQL', 'Ruby']",St Mary,Part Time
+Data Analysts,3.3,"['SQL', 'R', 'Ruby']",Portland,Full Time
+Data Analysts,2.4,"['R', 'Ruby', 'Python']",Westmoreland,Part Time
+Software Engineer,2.4,"['Python', 'Ruby', 'Java']",St. Ann,Part Time
+FrontEndDeveloper,2.6,"['javascript', 'git', 'react']",St.Andrew,Full Time
+Data Analysts,2.9,"['Ruby', 'SQL', 'Python']",Kingston,Part Time
+FullStackDeveloper,2.9,"['angular', 'rails', 'backbone']",St. Ann,Full Time
+FrontEndDeveloper,2.9,"['html', 'backbone', 'git']",Portland,Full Time
+FullStackDeveloper,2.6,"['angular', 'django', 'git']",St. Thomas,Part Time
+Network Administrator,3.2,"['LAN', 'WAN', 'TCP/IP']",Clarendon,Part Time
+FullStackDeveloper,2.6,"['react', 'angular', 'php']",Kingston,Full Time
+Software Engineer,2.7,"['Mean', 'Python', 'Java']",St. Thomas,Full Time
+Data Analysts,3.3,"['R', 'Ruby', 'SQL']",Manchester,Full Time
+FullStackDeveloper,3.3,"['angular', 'react', 'php']",Westmoreland,Part Time
+FullStackDeveloper,2.6,"['css', 'html', 'git']",Trelawny,Part Time
+FullStackDeveloper,3.1,"['css', 'git', 'django']",St. James,Part Time
+FrontEndDeveloper,2.6,"['backbone', 'css', 'react']",St.Andrew,Part Time
+Software Engineer,3.1,"['Ruby', '.Net', 'Java']",St. Thomas,Part Time
+Data Analysts,3.5,"['Python', 'Ruby', 'R']",Kingston,Full Time
+Data Analysts,3.3,"['SQL', 'Python', 'R']",Kingston,Full Time
+Data Analysts,2.5,"['Python', 'Ruby', 'R']",Kingston,Full Time
+FrontEndDeveloper,3.0,"['css', 'html', 'angular']",Westmoreland,Full Time
+Software Engineer,3.0,"['Mean', 'Python', '.Net']",Westmoreland,Full Time
+FullStackDeveloper,3.1,"['vue', 'rails', 'backbone']",Portland,Full Time
+BackEndDeveloper,3.0,"['rails', 'git', 'django']",Portland,Part Time
+FullStackDeveloper,3.5,"['vue', 'SQL', 'php']",Hanover,Part Time
+FullStackDeveloper,2.7,"['rails', 'django', 'react']",Kingston,Full Time
+Network Analyst,2.7,"['hypothesis testing', 'ML systems', 'SQL']",Portland,Full Time
+BackEndDeveloper,3.3,"['git', 'php', 'rails']",Manchester,Full Time
+BackEndDeveloper,2.5,"['git', 'django', 'php']",Westmoreland,Part Time
+Network Administrator,3.1,"['WAN', 'UNIX', 'LAN']",St.Andrew,Full Time
+Software Engineer,2.6,"['.Net', 'Mean', 'Ruby']",Westmoreland,Full Time
+BackEndDeveloper,2.7,"['git', 'rails', 'django']",St. Catherine,Part Time
+Data Analysts,2.9,"['Ruby', 'SQL', 'R']",St. Ann,Part Time
+BackEndDeveloper,3.2,"['django', 'php', 'git']",St Mary,Full Time
+FullStackDeveloper,3.0,"['rails', 'git', 'react']",St. James,Full Time
+Network Administrator,3.0,"['Python', 'LAN', 'C++']",St Mary,Part Time
+Software Engineer,2.4,"['Python', 'Mean', 'C#']",St Mary,Full Time
+FrontEndDeveloper,3.3,"['backbone', 'html', 'css']",Westmoreland,Part Time
+Network Analyst,3.2,"['hypothesis testing', 'ML systems', 'R']",St Mary,Part Time
+BackEndDeveloper,3.1,"['rails', 'django', 'git']",Clarendon,Part Time
+Network Administrator,3.1,"['TCP/IP', 'UNIX', 'LAN']",Manchester,Full Time
+FullStackDeveloper,2.7,"['SQL', 'react', 'css']",St.Andrew,Full Time
+FullStackDeveloper,3.0,"['rails', 'angular', 'git']",Hanover,Part Time
+FullStackDeveloper,3.0,"['django', 'css', 'SQL']",Trelawny,Full Time
+BackEndDeveloper,3.1,"['git', 'django', 'rails']",St. Thomas,Full Time
+BackEndDeveloper,3.4,"['git', 'rails', 'django']",Portland,Full Time
+FrontEndDeveloper,3.0,"['react', 'html', 'vue']",Westmoreland,Part Time
+Network Analyst,2.4,"['regressions', 'statisticalinference', 'hypothesis testing']",Trelawny,Part Time
+Network Analyst,2.7,"['regressions', 'statisticalinference', 'Python']",St. Catherine,Full Time
+FullStackDeveloper,2.5,"['react', 'css', 'backbone']",Hanover,Part Time
+BackEndDeveloper,2.5,"['django', 'git', 'php']",Clarendon,Full Time
+Data Analysts,3.0,"['SQL', 'R', 'Python']",Westmoreland,Part Time
+Data Analysts,3.3,"['R', 'Ruby', 'Python']",St.Andrew,Part Time
+BackEndDeveloper,2.8,"['php', 'rails', 'git']",St Mary,Full Time
+FullStackDeveloper,3.3,"['css', 'SQL', 'rails']",Kingston,Full Time
+BackEndDeveloper,3.1,"['django', 'php', 'rails']",St. Thomas,Full Time
+Data Analysts,3.5,"['Python', 'SQL', 'Ruby']",Westmoreland,Part Time
+BackEndDeveloper,2.9,"['django', 'rails', 'php']",St. James,Part Time
+Network Administrator,3.0,"['C++', 'Python', 'UNIX']",St. James,Full Time
+Network Administrator,2.7,"['C++', 'Python', 'WAN']",St. Catherine,Full Time
+Software Engineer,3.5,"['Ruby', 'Mean', 'Java']",St.Andrew,Full Time
+FullStackDeveloper,3.5,"['SQL', 'git', 'vue']",Portland,Part Time
+Data Analysts,3.4,"['Python', 'Ruby', 'SQL']",St Mary,Part Time
+FullStackDeveloper,2.6,"['javascript', 'SQL', 'django']",St Mary,Full Time
+Network Administrator,2.4,"['UNIX', 'C++', 'TCP/IP']",Westmoreland,Part Time
+Data Analysts,3.3,"['SQL', 'Ruby', 'R']",Manchester,Part Time
+FullStackDeveloper,3.0,"['SQL', 'angular', 'html']",St. Elizabeth,Part Time
+BackEndDeveloper,3.1,"['git', 'rails', 'django']",St. Thomas,Part Time
+FullStackDeveloper,3.5,"['backbone', 'javascript', 'rails']",Trelawny,Part Time
+Network Analyst,2.9,"['Python', 'regressions', 'hypothesis testing']",Hanover,Part Time
+FullStackDeveloper,3.1,"['rails', 'react', 'git']",Clarendon,Full Time
+Network Administrator,2.6,"['C++', 'WAN', 'TCP/IP']",Clarendon,Full Time
+Software Engineer,3.1,"['Mean', '.Net', 'Python']",St. Ann,Part Time
+FrontEndDeveloper,3.1,"['vue', 'css', 'git']",St. Catherine,Part Time
+FrontEndDeveloper,3.4,"['html', 'react', 'vue']",St. Elizabeth,Part Time
+Network Analyst,3.4,"['SQL', 'Python', 'R']",St. Elizabeth,Full Time
+Data Analysts,3.4,"['Python', 'R', 'SQL']",Westmoreland,Part Time
+Data Analysts,2.5,"['R', 'Ruby', 'SQL']",Portland,Full Time
+FullStackDeveloper,2.9,"['javascript', 'SQL', 'git']",Portland,Part Time
+BackEndDeveloper,3.5,"['rails', 'php', 'git']",St. Elizabeth,Full Time
+Network Analyst,3.4,"['statisticalinference', 'R', 'SQL']",Hanover,Full Time
+FullStackDeveloper,2.7,"['react', 'git', 'django']",Trelawny,Full Time
+Data Analysts,2.5,"['SQL', 'Python', 'R']",St. Elizabeth,Part Time
+FullStackDeveloper,2.9,"['git', 'rails', 'react']",Manchester,Part Time
+BackEndDeveloper,3.3,"['php', 'git', 'rails']",Trelawny,Part Time
+Software Engineer,3.5,"['Mean', 'C#', '.Net']",St. Ann,Part Time
+Network Administrator,2.8,"['LAN', 'C++', 'Python']",Clarendon,Part Time
+FullStackDeveloper,3.5,"['css', 'git', 'angular']",Portland,Part Time
+FullStackDeveloper,3.4,"['backbone', 'angular', 'rails']",Kingston,Part Time
+Network Administrator,2.8,"['WAN', 'C++', 'TCP/IP']",Clarendon,Full Time
+BackEndDeveloper,2.4,"['git', 'rails', 'php']",Trelawny,Full Time
+Software Engineer,2.8,"['.Net', 'C#', 'Ruby']",St. Elizabeth,Part Time
+BackEndDeveloper,3.2,"['git', 'django', 'rails']",Manchester,Part Time
+BackEndDeveloper,2.7,"['php', 'rails', 'django']",St. Elizabeth,Part Time
+FrontEndDeveloper,2.6,"['backbone', 'html', 'react']",Kingston,Part Time
+BackEndDeveloper,2.8,"['git', 'rails', 'php']",Kingston,Full Time
+BackEndDeveloper,3.2,"['django', 'rails', 'php']",Portland,Full Time
+Software Engineer,3.2,"['.Net', 'Mean', 'Python']",Portland,Part Time
+FullStackDeveloper,3.1,"['php', 'git', 'javascript']",Kingston,Full Time
+FrontEndDeveloper,2.8,"['vue', 'git', 'backbone']",Manchester,Full Time
+BackEndDeveloper,2.6,"['django', 'php', 'git']",Trelawny,Full Time
+Data Analysts,2.4,"['R', 'Ruby', 'SQL']",St. Thomas,Part Time
+FrontEndDeveloper,2.8,"['css', 'git', 'backbone']",Hanover,Part Time
+FullStackDeveloper,3.0,"['javascript', 'angular', 'backbone']",Portland,Part Time
+FullStackDeveloper,3.0,"['vue', 'css', 'javascript']",Trelawny,Part Time
+FullStackDeveloper,2.6,"['backbone', 'javascript', 'django']",Manchester,Part Time
+Network Analyst,2.6,"['regressions', 'SQL', 'hypothesis testing']",St.Andrew,Part Time
+BackEndDeveloper,3.0,"['git', 'rails', 'php']",St. Thomas,Part Time
+FrontEndDeveloper,3.3,"['react', 'javascript', 'git']",Westmoreland,Part Time
+FrontEndDeveloper,3.1,"['backbone', 'react', 'angular']",St. James,Part Time
+Network Administrator,2.7,"['UNIX', 'LAN', 'WAN']",Portland,Part Time
+BackEndDeveloper,2.7,"['django', 'rails', 'php']",St.Andrew,Part Time
+FrontEndDeveloper,2.8,"['backbone', 'javascript', 'vue']",Westmoreland,Part Time
+FullStackDeveloper,3.2,"['django', 'rails', 'react']",St. Catherine,Full Time
+Software Engineer,3.0,"['Python', 'C#', '.Net']",St. Elizabeth,Full Time
+Data Analysts,2.8,"['SQL', 'Ruby', 'Python']",St. Catherine,Part Time
+BackEndDeveloper,3.5,"['rails', 'git', 'django']",St. James,Full Time
+Network Analyst,3.1,"['hypothesis testing', 'regressions', 'Python']",St. Elizabeth,Part Time
+BackEndDeveloper,2.9,"['git', 'rails', 'php']",St. James,Part Time
+FullStackDeveloper,3.3,"['git', 'css', 'backbone']",Portland,Part Time
+Software Engineer,2.7,"['.Net', 'Ruby', 'Java']",St. Ann,Part Time
+Software Engineer,2.7,"['Mean', 'Ruby', 'C#']",St. Thomas,Part Time
+FrontEndDeveloper,3.3,"['css', 'angular', 'vue']",Portland,Part Time
+FullStackDeveloper,3.4,"['backbone', 'javascript', 'css']",St. Elizabeth,Part Time
+BackEndDeveloper,3.5,"['rails', 'php', 'git']",Trelawny,Full Time
+Software Engineer,2.4,"['Java', 'Python', 'C#']",Westmoreland,Full Time
+BackEndDeveloper,2.9,"['django', 'php', 'git']",St. Thomas,Part Time
+FullStackDeveloper,3.3,"['rails', 'git', 'SQL']",Clarendon,Part Time
+FrontEndDeveloper,2.6,"['vue', 'angular', 'javascript']",St.Andrew,Full Time
+Software Engineer,2.7,"['C#', 'Mean', 'Java']",St. Catherine,Part Time
+Network Administrator,2.6,"['LAN', 'C++', 'Python']",Kingston,Full Time
+FullStackDeveloper,2.9,"['php', 'css', 'django']",Westmoreland,Part Time
+FrontEndDeveloper,3.5,"['css', 'backbone', 'html']",Kingston,Part Time
+FullStackDeveloper,2.4,"['php', 'vue', 'django']",Portland,Full Time
+Software Engineer,3.0,"['Java', 'Mean', '.Net']",Kingston,Full Time
+FrontEndDeveloper,2.7,"['git', 'react', 'backbone']",Westmoreland,Full Time
+Software Engineer,2.7,"['.Net', 'Ruby', 'Mean']",Portland,Part Time
+FullStackDeveloper,3.1,"['php', 'css', 'backbone']",St. Ann,Part Time
+Network Administrator,3.2,"['LAN', 'WAN', 'UNIX']",St Mary,Full Time
+Network Analyst,2.7,"['R', 'SQL', 'regressions']",St. Elizabeth,Part Time
+FullStackDeveloper,3.2,"['backbone', 'angular', 'git']",St. Thomas,Full Time
+Network Administrator,2.7,"['Python', 'UNIX', 'WAN']",Trelawny,Full Time
+Data Analysts,2.9,"['Python', 'R', 'Ruby']",Westmoreland,Part Time
+Network Administrator,2.8,"['TCP/IP', 'UNIX', 'WAN']",Manchester,Full Time
+FrontEndDeveloper,2.5,"['css', 'javascript', 'backbone']",St. Catherine,Part Time
+Network Analyst,2.8,"['statisticalinference', 'hypothesis testing', 'SQL']",St.Andrew,Full Time
+FullStackDeveloper,3.5,"['vue', 'backbone', 'react']",St. Ann,Part Time
+Network Analyst,3.5,"['ML systems', 'Python', 'hypothesis testing']",St. Catherine,Full Time
+FullStackDeveloper,3.0,"['html', 'css', 'angular']",Hanover,Full Time
+BackEndDeveloper,2.7,"['rails', 'git', 'django']",St. Thomas,Part Time
+Network Analyst,3.5,"['ML systems', 'statisticalinference', 'Python']",Clarendon,Full Time
+Software Engineer,2.8,"['Java', '.Net', 'Mean']",Westmoreland,Full Time
+FullStackDeveloper,2.9,"['react', 'php', 'vue']",Westmoreland,Full Time
+Network Analyst,2.5,"['statisticalinference', 'Python', 'ML systems']",Westmoreland,Full Time
+BackEndDeveloper,3.2,"['django', 'php', 'git']",St. Catherine,Part Time
+FrontEndDeveloper,2.5,"['javascript', 'html', 'backbone']",St. James,Full Time
+Data Analysts,2.6,"['Ruby', 'Python', 'R']",St. Elizabeth,Full Time
+Network Analyst,2.7,"['regressions', 'Python', 'hypothesis testing']",Manchester,Part Time
+FrontEndDeveloper,2.5,"['javascript', 'git', 'backbone']",St. James,Full Time
+Network Administrator,3.2,"['TCP/IP', 'C++', 'UNIX']",St. James,Part Time
+Network Administrator,3.4,"['UNIX', 'WAN', 'C++']",St Mary,Part Time
+Data Analysts,3.0,"['R', 'Python', 'Ruby']",Clarendon,Part Time
+Network Analyst,2.9,"['SQL', 'statisticalinference', 'Python']",Portland,Full Time
+Data Analysts,3.3,"['Python', 'Ruby', 'SQL']",St. Elizabeth,Part Time
+Network Administrator,2.4,"['LAN', 'WAN', 'TCP/IP']",Portland,Full Time
+Software Engineer,2.7,"['Java', 'Python', 'C#']",St. Ann,Full Time
+BackEndDeveloper,3.3,"['git', 'rails', 'django']",Manchester,Full Time
+FrontEndDeveloper,2.5,"['react', 'javascript', 'html']",St. Thomas,Full Time
+Network Administrator,2.5,"['LAN', 'UNIX', 'C++']",Trelawny,Full Time
+FrontEndDeveloper,2.5,"['react', 'javascript', 'css']",Westmoreland,Full Time
+FrontEndDeveloper,2.5,"['javascript', 'git', 'backbone']",Hanover,Part Time
+FullStackDeveloper,2.5,"['react', 'backbone', 'html']",St. Elizabeth,Part Time
+FullStackDeveloper,2.6,"['javascript', 'SQL', 'git']",Clarendon,Full Time
+BackEndDeveloper,2.5,"['php', 'rails', 'git']",Westmoreland,Full Time
+Network Analyst,2.9,"['SQL', 'regressions', 'R']",Trelawny,Part Time
+FrontEndDeveloper,2.9,"['angular', 'html', 'git']",Kingston,Full Time
+Network Analyst,3.1,"['SQL', 'hypothesis testing', 'Python']",St. James,Part Time
+FullStackDeveloper,3.4,"['git', 'css', 'rails']",St Mary,Full Time
+Network Administrator,2.9,"['C++', 'WAN', 'Python']",St.Andrew,Part Time
+FullStackDeveloper,2.4,"['git', 'angular', 'SQL']",St. Thomas,Part Time
+Data Analysts,2.9,"['SQL', 'Python', 'R']",Kingston,Part Time
+Network Analyst,2.5,"['R', 'SQL', 'ML systems']",St. Thomas,Full Time
+FullStackDeveloper,2.6,"['react', 'javascript', 'django']",St. James,Full Time
+Data Analysts,3.1,"['SQL', 'R', 'Python']",Hanover,Full Time
+Network Analyst,2.8,"['SQL', 'hypothesis testing', 'R']",St. Catherine,Part Time
+Network Administrator,2.5,"['UNIX', 'Python', 'WAN']",Kingston,Full Time
+BackEndDeveloper,3.5,"['php', 'git', 'rails']",St. Elizabeth,Part Time
+FrontEndDeveloper,3.0,"['css', 'react', 'vue']",St. Ann,Full Time
+Data Analysts,2.6,"['R', 'SQL', 'Ruby']",Hanover,Full Time
+Network Administrator,3.0,"['UNIX', 'C++', 'LAN']",St. Elizabeth,Part Time
+Data Analysts,3.2,"['Ruby', 'Python', 'SQL']",St. Thomas,Part Time
+FrontEndDeveloper,3.5,"['angular', 'backbone', 'javascript']",St. Elizabeth,Full Time
+FrontEndDeveloper,2.5,"['angular', 'git', 'backbone']",St.Andrew,Full Time
+Data Analysts,2.5,"['Python', 'SQL', 'Ruby']",St. Elizabeth,Part Time
+Software Engineer,2.5,"['.Net', 'C#', 'Java']",St. Thomas,Part Time
+Network Analyst,2.7,"['ML systems', 'statisticalinference', 'Python']",St. Ann,Full Time
+FullStackDeveloper,3.5,"['angular', 'backbone', 'javascript']",St.Andrew,Full Time
+FullStackDeveloper,2.5,"['git', 'django', 'html']",St. Ann,Full Time
+FrontEndDeveloper,2.9,"['vue', 'css', 'react']",St. Catherine,Part Time
+Software Engineer,3.1,"['Mean', 'C#', '.Net']",Kingston,Part Time
+FrontEndDeveloper,2.7,"['vue', 'backbone', 'react']",St. Catherine,Part Time
+Network Analyst,3.1,"['Python', 'regressions', 'R']",Portland,Part Time
+Software Engineer,3.0,"['C#', 'Mean', 'Java']",Hanover,Part Time
+Network Analyst,2.5,"['statisticalinference', 'R', 'Python']",St. James,Part Time
+Software Engineer,2.5,"['Java', 'C#', 'Ruby']",St. James,Part Time
+BackEndDeveloper,3.1,"['php', 'django', 'git']",Trelawny,Full Time
+Data Analysts,3.1,"['R', 'Ruby', 'Python']",St. Catherine,Full Time
+Software Engineer,2.7,"['Python', '.Net', 'Mean']",St. James,Part Time
+Network Administrator,3.4,"['Python', 'LAN', 'TCP/IP']",St. Ann,Part Time
+FrontEndDeveloper,2.4,"['vue', 'react', 'css']",Hanover,Part Time

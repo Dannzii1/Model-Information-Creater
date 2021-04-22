@@ -47,3 +47,5 @@ with open('company_internship.csv', 'w', newline='') as f:
         skills = get_skills(job_position_skills[selected_position])
         the_writer.writerow([selected_position, fake.random.choice(GPA), [skills[0], skills[1],
                              skills[2]], fake.random.choice(parish), fake.random.choice(employment_type)])
+
+
